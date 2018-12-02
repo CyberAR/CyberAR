@@ -1,1 +1,1 @@
-echo "selamat Datang"
+echo selamat Datang
